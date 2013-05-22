@@ -1,0 +1,6 @@
+numa_hit 397239
+numa_miss 0
+numa_foreign 0
+interleave_hit 1271
+local_node 397239
+other_node 0
