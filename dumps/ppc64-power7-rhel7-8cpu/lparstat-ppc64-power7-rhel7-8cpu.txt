@@ -1,0 +1,31 @@
+Node Name                                    : ibm-p730-03-lp3.rhts.eng.bos.redhat.com
+Partition Name                               : lpar3
+Partition Number                             : 4
+Type                                         : Shared
+Mode                                         : Uncapped
+Entitled Capacity                            : 0.20
+Partition Group-ID                           : 32772
+Shared Pool ID                               : 0
+Online Virtual CPUs                          : 2
+Maximum Virtual CPUs                         : 16
+Minimum Virtual CPUs                         : 1
+Online Memory                                : 7294848 kB
+Minimum Memory                               : 128
+Minimum Capacity                             : 0.10
+Maximum Capacity                             : 16.00
+Capacity Increment                           : 0.01
+Active Physical CPUs in system               : 16
+Active CPUs in Pool                          : 16
+Maximum Capacity of Pool                     : 16.00
+Entitled Capacity of Pool                    : 240
+Unallocated Processor Capacity               : 0
+Physical CPU Percentage                      : 10
+Unallocated Weight                           : 0
+Memory Mode                                  : Shared
+Total I/O Memory Entitlement                 : 8053063680
+Variable Memory Capacity Weight              : 0
+Memory Pool ID                               : 65535
+Unallocated Variable Memory Capacity Weight  : 0
+Unallocated I/O Memory Entitlement           : 0
+Memory Group ID of LPAR                      : 32772
+Desired Variable Capacity Weight             : 128
